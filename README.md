@@ -1,3 +1,3 @@
 # SampleSelfHosting
 
-Пример WCF Self-Hosting
+Пример к статье "Размещаем WCF-службу методом Self-Hosting"
